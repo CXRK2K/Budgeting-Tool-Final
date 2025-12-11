@@ -33,3 +33,6 @@ IMPORTANT THINGS TO KNOW
 
 - If you do NOT have a CSV yet, the program will create one.  
 - If you do not input the accurate filename for an existing CSV (excluding the .csv end), then the program will create a NEW file for the inputted CSV filename.
+
+FINAL PRESENTATION YOUTUBE LINK EXPLAINING PROJECT
+https://youtu.be/wNQhXsv1R9s
